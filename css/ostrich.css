@@ -9,6 +9,6 @@ html {
 }
 
 /* Write your solution here */
-@media () {
-  
+@media (max-width: 1920) {
+  top: -50px;
 }
