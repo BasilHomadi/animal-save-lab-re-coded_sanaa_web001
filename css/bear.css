@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 @media (min-width: 1100px) {
   #bear {
-    left: 500px;
+    left: 800px;
   }
 }
